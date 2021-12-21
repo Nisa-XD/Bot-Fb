@@ -1,5 +1,4 @@
 # Bot-Fb
-Bot follow
 
 $pkg update && pkg upgrade
 
