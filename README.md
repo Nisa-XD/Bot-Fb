@@ -1,5 +1,6 @@
 # Bot-Fb
 Bot follow
+
 $pkg update && pkg upgrade
 
 $pkg install git
